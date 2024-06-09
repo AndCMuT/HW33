@@ -1,0 +1,61 @@
+#Schrodinger {
+    position: absolute;
+    top: 130px;
+    left: 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#commentSchrodinger {
+    width: 300px;
+    height: 100px;
+}
+
+#Basov {
+    position: absolute;
+    top: 130px;
+    left: 555px;
+}
+
+#commentBasov{
+    width: 300px;
+    height: 100px;
+}
+
+#Smoot {
+    position: absolute;
+    top: 130px;
+    left: 955px;
+}
+.comment {
+    width: 300px;
+    height: 100px;
+}
+
+#Landau {
+    position: absolute;
+    top: 130px;
+    left: 1360px;
+}
+#Salam {
+    position: absolute;
+    top: 815px;
+    left: 150px;;
+}
+#Kapitsa {
+    position: absolute;
+    top: 815px;
+    left: 555px;
+}
+#Born {
+    position: absolute;
+    top: 815px;
+    left: 955px;
+}
+#Higgs {
+    position: absolute;
+    top: 815px;
+    left: 1360px;
+}
